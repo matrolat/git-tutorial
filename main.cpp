@@ -7,5 +7,5 @@ int main(){
     cout<<"Hello worlds";
     cout<<"hello sameer";
     cout<<"hello avinash";
-    cout<<"hello bbi";
+    cout<<"hello advuy";
 }
